@@ -6,6 +6,14 @@ import { ExternalLink, Youtube } from 'lucide-react';
 
 const djSets = [
   {
+    title: "SERVEL LIVE @ CRITICAL SOUNDS MEDELLIN 2026",
+    location: "Critical Sounds Medellín",
+    date: "September 2026",
+    image: "/images/dj-sets/servel-presskit-critical-sounds-september2026.avif",
+    url: "https://www.youtube.com/watch?v=vrWOFWDFv8M",
+    platform: "youtube",
+  },
+  {
     title: "Servel Live - Sonorama Club Medellín",
     location: "Sonorama Club",
     date: "November 2025",
