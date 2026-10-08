@@ -6,6 +6,14 @@ import { MapPin, Calendar, Clock, LayoutGrid, List } from 'lucide-react';
 
 const presentations = [
   {
+    date: "October 2026",
+    fullDate: "31.10.26",
+    artist: "Ritvales",
+    city: "Antioquia",
+    time: "10:00 PM",
+    image: "/images/events/david-servel-ubbah-ritvales.webp",
+  },
+  {
     date: "March 2025",
     fullDate: "29.03.25",
     artist: "Ferry Corsten",
